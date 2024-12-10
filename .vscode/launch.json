@@ -1,7 +1,7 @@
 {
     "configurations": [
         {
-            "name": "Docker: Python - Flask",
+            "name": "Docker: Python - Flask2",
             "type": "docker",
             "request": "launch",
             "preLaunchTask": "docker-run: debug",
