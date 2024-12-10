@@ -20,6 +20,9 @@
       "webAppName": {
         "value": "karlExerciseWebApp"
         
+      },
+      "keyVaultName": {
+        "value": "karlexercise-kv-2"
       }
     }
   }
